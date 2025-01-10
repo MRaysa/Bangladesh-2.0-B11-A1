@@ -1,0 +1,63 @@
+*{
+    margin: 1px;
+    padding: 0px;
+}
+
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    padding:10px;
+}
+.heading{
+    color: #0E0E0E;
+}
+.signIn{
+    padding: 10px 15px;
+    background-color: white;
+    border: 1px solid #006A50;
+    color: #006A50;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.banner-container{
+   
+   
+    /*margin:0 auto;*/
+    margin:20px 160px;
+    background-color: #3b77686e;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    border-radius: 10px;
+   
+    
+
+}
+.Bangla_2{
+    margin-top: 117px;
+    color: gray;
+    font-weight: medium;
+    font-size: 20px;
+
+}
+.banner-paragraph{
+    margin-top: 16px;
+    font-weight: bold;
+    font-size: 56px;
+}
+.explore_btn{
+    margin-top: 16px;
+    background-color: #006A50;
+    color: white;
+    padding: 17px 34px;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 117px;
+    
+}
+.banner-img{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
