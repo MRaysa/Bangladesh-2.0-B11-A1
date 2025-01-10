@@ -1,8 +1,14 @@
 *{
     margin: 1px;
     padding: 0px;
+   
 }
 
+button:hover {
+    color: #fff;
+    background-color: #006a50d1;
+    transition: 0.3s;
+  }
 
 .navbar{
     display: flex;
@@ -21,8 +27,6 @@
     font-weight: bold;
 }
 .banner-container{
-   
-   
     /*margin:0 auto;*/
     margin:20px 160px;
     background-color: #3b77686e;
@@ -60,4 +64,143 @@
 .banner-img{
     margin-top: 80px;
     margin-bottom: 80px;
+}
+
+/* pillar section */
+
+.pillarsOfBangladesh{
+    margin:20px 160px;
+
+}
+
+.pillarsHeading{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.pillar-container_box{
+    display: flex;
+    justify-content: space-between;
+    gap:20px;
+   
+}
+
+.pillar-contain{
+    text-align: justify;
+    width: 302px;
+    height: 244px;
+    padding: 20px;
+   
+    border-radius: 10px;
+    pading:24px 24px;
+    margin: 10px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.innovation_heading{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/* the_Vision_of_Future */
+.the_Vision_of_Future{
+    margin:20px 160px;
+
+}
+
+.vision-futur-paragraph{
+    margin-top: 15px;
+    margin-bottom: 32px;
+    line-height: 1.6;
+    color: #555;
+}
+
+.Vision_of_Future_box{
+    display: flex;
+    justify-content: space-between;
+    gap:20px;
+    
+}
+
+
+
+.Vision_of_Future_digital{
+    text-align: justify;
+    width: 410.67px;
+    height: 325px;
+    padding: 20px;
+   
+    border-radius: 10px;
+    pading:24px 24px;
+    margin: 10px 0;
+    background-color: rgba(84, 144, 245, 0.2);
+    box-shadow: 0 2px 4px rgba(84, 144, 245, 0.2);
+}
+
+.Vision_of_Future_green{
+    text-align: justify;
+    width: 410.67px;
+    height: 325px;
+    padding: 20px;
+   
+    border-radius: 10px;
+    pading:24px 24px;
+    margin: 10px 0;
+    background-color: #c6e4d6;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.Vision_of_Future_modern{
+    text-align: justify;
+    width: 410.67px;
+    height: 325px;
+    padding: 20px;
+   
+    border-radius: 10px;
+    pading:24px 24px;
+    margin: 10px 0;
+    background-color: #FFC239;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+    
+.digital_heading,
+.green_heading,
+.modern_heading {
+    margin: 10px 0;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    color: white;
+}
+
+.digital_btns {
+    background-color: #003D99;
+    margin-bottom: 32px;
+}
+
+.green_btns {
+    background-color: #006A50;
+    margin-bottom: 32px;
+}
+
+.modern_btns {
+    background-color: #E89E00;
+    margin-bottom: 32px;
+    color: white;
+}
+
+.digital_heading{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.digital_p{
+    margin-bottom: 30px;
 }
