@@ -15,9 +15,12 @@ button:hover {
 
 .navbar{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
+    padding: 20px 40px;
     padding:10px;
+    margin:20px 160px;
 }
+
 .heading{
     color: #0E0E0E;
 }
@@ -276,6 +279,7 @@ button {
     height: auto;
     border-radius: 24px;
 }
+
 
 .news-box1-written h2 {
     font-size: 1.5rem;
