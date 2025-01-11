@@ -176,7 +176,26 @@ body{
     background-color: #f7ebcf;
     box-shadow: 0 2px 4px #f7ebcf;
 }
-    
+
+.Vision_of_Future_digital:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    box-shadow: 0 4px 8px rgba(84, 144, 245, 0.5);
+}
+
+.Vision_of_Future_green:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    box-shadow: 0 4px 8px rgba(9, 161, 92, 0.5);
+}
+
+.Vision_of_Future_modern:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    box-shadow: 0 4px 8px rgba(255, 194, 57, 0.5);
+}
+
+
 .digital_heading,
 .green_heading,
 .modern_heading {
@@ -401,7 +420,7 @@ button {
 
 /*donate part */
 
-.donate_today{
+.Donate-For-Bangladesh{
     text-align: center;
     margin:20px 160px;
   }
