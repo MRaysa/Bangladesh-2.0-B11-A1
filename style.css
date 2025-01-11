@@ -571,10 +571,11 @@ input[type="number"]:focus{
     color: #0E0E0E;
     font-size: 32px;
     font-weight: 700;
+    margin-bottom: 15px;
     
   }
   .social-media {
-    margin: 40px auto;
+    margin: 25px auto;
     display: flex;
     align-items: center;
     justify-content: center;
