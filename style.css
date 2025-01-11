@@ -200,13 +200,7 @@ body{
 }
 
 
-.digital_heading,
-.green_heading,
-.modern_heading {
-    margin: 10px 0;
-    font-size: 1.2rem;
-    font-weight: bold;
-}
+
 
 button {
     margin-top: 10px;
@@ -236,7 +230,9 @@ button {
 
 .digital_heading{
     margin-top: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    
 }
 
 
