@@ -99,11 +99,11 @@ body{
     width: 302px;
     height: 244px;
     padding: 20px;
-   
+    background-color: white;
     border-radius: 10px;
     pading:24px 24px;
     margin: 10px 0;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 4px white;
 }
 
 .innovation_heading{
@@ -542,9 +542,9 @@ input[type="number"]:focus{
   /* footer part */
   .footer{
     background-color: #FFFFFF;
-    padding: 50px;
-    border-radius: 40px 40px 0 0;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    
+    
   }
 
   #footer-heading{
@@ -552,7 +552,7 @@ input[type="number"]:focus{
     color: #0E0E0E;
     font-size: 32px;
     font-weight: 700;
-    margin: 40px;
+    
   }
   .social-media {
     margin: 40px auto;
