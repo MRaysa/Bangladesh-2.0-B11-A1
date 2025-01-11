@@ -299,9 +299,9 @@ button {
 .opinion-select {
     padding: 10px 15px;
     font-size: 16px;
-    border: 1px solid rgba(14, 14, 14, 0.2);
+    border: 1px solid  #3b77686e;
     border-radius: 8px;
-    background-color: #fff;
+    background-color: #3b77686e;
     cursor: pointer;
     width: 150px;
 }
