@@ -93,7 +93,11 @@ body{
     gap:20px;
    
 }
-
+.pillar-contain:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background-color: rgba(198, 228, 214, 0.5); 
+}
 .pillar-contain{
     text-align: justify;
     width: 302px;
